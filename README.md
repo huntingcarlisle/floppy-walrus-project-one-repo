@@ -1,6 +1,10 @@
 # floppy-walrus-project-one-repo
 Repository for Analysis done as part of project one. 
 
+## Team Members
+- Hunter Carlisle
+- Cooper Boer
+
 ## Setup Instructions
 To run the code in this repo, you will need a Google API key, with the Places API and the Maps Javascript API Enabled.
 
